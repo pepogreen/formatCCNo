@@ -1,0 +1,28 @@
+{
+  "name": "formatccno",
+  "version": "1.0.0",
+  "description": "Format a Credit Card Number based on Card Type.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No test specified!!!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepogreen/formatCCNo.git"
+  },
+  "keywords": [
+    "format",
+    "credit",
+    "card"
+  ],
+  "author": "Ansad <ansadm@gmail.com> [http://pepogreen.com]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pepogreen/formatCCNo/issues"
+  },
+  "homepage": "https://github.com/pepogreen/formatCCNo#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}

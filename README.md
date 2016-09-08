@@ -1,2 +1,2 @@
 # formatCCNo
-format credit card number
+#format credit card number
