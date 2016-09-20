@@ -1,9 +1,7 @@
 {
   "name": "formatccno",
   "version": "2.0.1",
-  "description": "Format a Credit Card Number based on Card Type. Find the card type based on Credit card Number series.
-  					More Details, visit my blog here,
-				http://pepogreen.com/steps-to-create-an-npm-module-and-publish-it/",
+  "description": "Format a Credit Card Number based on Card Type. Find the card type based on Credit card Number series. More Details, visit my blog here, http://pepogreen.com/steps-to-create-an-npm-module-and-publish-it/",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
